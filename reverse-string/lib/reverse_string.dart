@@ -1,3 +1,1 @@
-String reverse(String unreversed) {
-  return unreversed.split('').reversed.join();
-}
+String reverse(String unreversed) => unreversed.split('').reversed.join();
